@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - wall
+  - ball
+  - iki
+  - dort
+  - sekiz
+  - background
+  - gizmos
+  - extra
+  - bomb
+  - dikey
+  - yatay
+  - onAlti
+  - otuzIki
+  - altmisDort
+  - yuzYirmiSekiz
+  - ikiYuzElliAlti
+  - besYuz
+  - bin
+  - ikiBin
+  - dortBin
+  - sekizBin
+  - onAltiBin
+  - otuzIkiBin
+  - altmisBin
+  - yuzBin
+  - sonsuz
+  - GameOver
+  - yanma
+  - skor
+  - tebrik
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - ball
+  - wall
+  - extra
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
